@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bsher4&label=Profile%20views&color=0e75b6&style=flat" alt="bsher4" /> </p>
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Laravel & Docker**
+
+- 🔭 I’m currently working on [GYM-MS](https://github.com/100c173/GymProject)
 
 - 💬 Ask me about **Anything**
 
