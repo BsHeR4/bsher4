@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Laravel & Docker**
 
-- 🔭 I’m currently working on [GYM-MS](https://github.com/100c173/GymProject)
-
 - 💬 Ask me about **Anything**
 
 - ⚡ Fun fact **Always learning**
