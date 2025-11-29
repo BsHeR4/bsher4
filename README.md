@@ -34,20 +34,6 @@
 
 <br/>
 
-- ### Frontend:
-<!-- <code> <img title="Next.js" alt="Nextjs" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" height="42px"/> </code> -->
-<code> <img title="React" alt="React" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" height="42px"/> </code>
-<code> <img title="Redux" alt="Redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="42px"/> </code>
-<code> <img title="Tailwind CSS" alt="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="42px"/> </code>
-<code> <img title="Bootstrap" alt="Bootstrap" src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png" height="42px"/> </code>
-<code> <img title="React Bootstrap" alt="React Bootstrap" src="https://cdn.simpleicons.org/reactbootstrap/00ccff" height="42px"/> </code>
-<code> <img title="CSS3" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42px"/> </code>
-<code> <img title="HTML5" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42px"/> </code>
-<code> <img title="Flutter" alt="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="42px"/> </code>
-
-
-<br/>
-
 - ### Backend:
 <code> <img title="Laravel" alt="Laravel" src="https://laravel.com/img/logomark.min.svg" height="42px"/> </code>
 <code> <img title="RESTful APIs" alt="RESTful APIs" src="https://miro.medium.com/v2/resize:fit:440/1*J3G3akaMpUOLegw0p0qthA.png" height="42px"/> </code>
@@ -58,6 +44,19 @@
 <code> <img title="Redis" alt="Redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="42px"/> </code>
 <!-- <code> <img title="PostgreSQL" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42px"/> </code> -->
 <!-- <code> <img title="SQLite" alt="SQLite" src="https://raw.githubusercontent.com/github/explore/main/topics/sqlite/sqlite.png" height="42px"/> </code> -->
+
+<br/>
+
+- ### Frontend:
+<!-- <code> <img title="Next.js" alt="Nextjs" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" height="42px"/> </code> -->
+<code> <img title="React" alt="React" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" height="42px"/> </code>
+<code> <img title="Redux" alt="Redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="42px"/> </code>
+<code> <img title="Tailwind CSS" alt="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="42px"/> </code>
+<code> <img title="Bootstrap" alt="Bootstrap" src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png" height="42px"/> </code>
+<code> <img title="React Bootstrap" alt="React Bootstrap" src="https://cdn.simpleicons.org/reactbootstrap/00ccff" height="42px"/> </code>
+<code> <img title="CSS3" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42px"/> </code>
+<code> <img title="HTML5" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42px"/> </code>
+<code> <img title="Flutter" alt="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="42px"/> </code>
 
 <br/>
 
