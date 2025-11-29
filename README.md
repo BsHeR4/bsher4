@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/bshermahayni)
 [![Linkedin Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:bshermahayni@gmail.com)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bsher4&label=Profile%20views&color=0e75b6&style=flat" alt="bsher4" /> </p>
+<img src="https://komarev.com/ghpvc/?username=bsher4&label=Profile%20views&color=0e75b6&style=flat" alt="bsher4" />
 
 <p style="text-align: justify; margin: 0 50px; font-size: 17px;" >
   
