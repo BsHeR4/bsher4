@@ -5,20 +5,14 @@
 <img src="https://komarev.com/ghpvc/?username=bsher4&label=Profile%20views&color=0e75b6&style=flat" alt="bsher4" />
 
 <p style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-  
- <p>I’m a Full-Stack Software Engineer with strong focus on <b>Laravel backend architecture</b>, clean code, and scalable API development.
- 
- <p>Currently acting as <b>Back-End Supervisor</b> for an advanced Laravel training program and mentoring developers.</p>
-
- <p>Capable of building complete systems end-to-end using Laravel, React.js/TS, TailwindCSS.</p>
-
+ I’m a Full-Stack Software Engineer with strong focus on <b>Laravel backend architecture</b>, clean code, and scalable API development.
 </p>    
 
-<br/>
-
-- 💬 Ask me about **Anything**
-
+- 🧭 Currently acting as **Back-End Supervisor** for an advanced Laravel training program
+- 🧩 I build complete systems using Laravel, React.js/TS, and TailwindCSS
+- 📚 Passionate about clean backend structure, testing, and real scalable architecture
 - ⚡ Fun fact **Always learning**
+- 💬 Ask me about **Anything**
 
 <br/>
 
